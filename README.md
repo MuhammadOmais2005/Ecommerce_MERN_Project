@@ -118,7 +118,12 @@ npm run dev
 ![Home Page](./Home.png)
 
 ## 👗 Product Listing
-![Product Listing](./screenshots/products.png)
+### Men
+![Product Listing](./Men.png)
+### Women
+![Product Listing](./Women.png)
+### Kids
+![Product Listing](./Kids.png)
 
 ## 🔍 Search & Filtering
 ![Search Filter](./screenshots/search-filter.png)
