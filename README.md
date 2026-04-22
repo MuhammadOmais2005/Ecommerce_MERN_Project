@@ -109,3 +109,12 @@ npm install
 npm run dev
 ```
 👉 Runs at: http://localhost:4000 or your given port.
+
+
+## 📈 Highlights
+
+- Scalable MERN architecture  
+- Clean API structure with separation of concerns  
+- Real-world eCommerce logic implementation  
+- Optimized queries using MongoDB aggregation  
+- Fully responsive and modern UI  
