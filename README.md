@@ -111,6 +111,51 @@ npm run dev
 👉 Runs at: http://localhost:4000 or your given port.
 
 
+
+# 📸 Screenshots
+
+## 🏠 Home Page
+![Home Page](./screenshots/home.png)
+
+## 👗 Product Listing
+![Product Listing](./screenshots/products.png)
+
+## 🔍 Search & Filtering
+![Search Filter](./screenshots/search-filter.png)
+
+## 📊 Sorting & Pagination
+![Sorting Pagination](./screenshots/sorting-pagination.png)
+
+## 📄 Product Details Page
+![Product Details](./screenshots/product-details.png)
+
+## 🛒 Cart Page
+![Cart](./screenshots/cart.png)
+
+## 💳 Checkout Page
+![Checkout](./screenshots/checkout.png)
+
+## 📦 Order Tracking
+![Order Tracking](./screenshots/order-tracking.png)
+
+## 🔐 Authentication (Login / Register)
+![Auth](./screenshots/auth.png)
+
+## 🧑‍💼 Admin Dashboard
+![Admin Dashboard](./screenshots/admin-dashboard.png)
+
+## 📦 Product Management
+![Product Table](./screenshots/product-table.png)
+
+## 📑 Order Management
+![Order Table](./screenshots/order-table.png)
+
+## 📈 Analytics Dashboard
+![Analytics](./screenshots/analytics.png)
+
+
+
+
 ## 📈 Highlights
 
 - Scalable MERN architecture  
@@ -118,3 +163,7 @@ npm run dev
 - Real-world eCommerce logic implementation  
 - Optimized queries using MongoDB aggregation  
 - Fully responsive and modern UI  
+
+
+
+
