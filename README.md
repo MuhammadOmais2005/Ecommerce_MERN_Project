@@ -115,7 +115,7 @@ npm run dev
 # 📸 Screenshots
 
 ## 🏠 Home Page
-![Home Page](./screenshots/home.png)
+![Home Page](./Untitled design (4).png)
 
 ## 👗 Product Listing
 ![Product Listing](./screenshots/products.png)
