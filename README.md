@@ -144,19 +144,22 @@ npm run dev
 ![Order Tracking](./screenshots/order-tracking.png)
 
 ## 🔐 Authentication (Login / Register)
-![Auth](./screenshots/auth.png)
-
+![Auth](./screenshots/SignUp.png)
+![Auth](./screenshots/Otp_Verification.png)
+![Auth](./screenshots/Login.png)
+![Auth](./screenshots/Forget_Password.png)
+![Auth](./screenshots/Reset_Password.png)
 ## 🧑‍💼 Admin Dashboard
-![Admin Dashboard](./screenshots/admin-dashboard.png)
+![Admin Dashboard](./screenshots/admin-dashboar.png)
 
 ## 📦 Product Management
-![Product Table](./screenshots/product-table.png)
+![Product Table](./Products.png)
 
 ## 📑 Order Management
-![Order Table](./screenshots/order-table.png)
+![Order Table](./Orders.png)
 
 ## 📈 Analytics Dashboard
-![Analytics](./screenshots/analytics.png)
+![Analytics](./Analytics.png)
 
 
 
