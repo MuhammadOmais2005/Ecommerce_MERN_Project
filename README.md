@@ -137,14 +137,17 @@ Discover kids' apparel with intuitive UI and server-side handling for search, so
 
 ## 🔍 Advanced Filtering
 Users can refine product searches using multiple filters such as price range, color, and size. All filtering operations are handled server-side for better performance and scalability.
-![Search Filter](./Porduct_Filtering.png)
+![Search Filter](./Product_Filtering.png)
 
 ---
 
 ## 📄 Product Details Page
 Detailed product view including images, descriptions, pricing, available sizes, and related products to enhance purchasing decisions.
+### Men Product Deail page
 ![Product Details](./Men_Product_Detail.png)
+### Men Product Deail page
 ![Product Details](./Women_Product_Detail.png)
+### Men Product Deail page
 ![Product Details](./Kids_Product_Detail.png)
 
 ---
