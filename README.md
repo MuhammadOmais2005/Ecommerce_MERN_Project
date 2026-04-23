@@ -125,27 +125,26 @@ npm run dev
 ### Kids
 ![Product Listing](./Kids.png)
 
-## 🔍 Search & Filtering
-![Search Filter](./screenshots/search-filter.png)
-
-## 📊 Sorting & Pagination
-![Sorting Pagination](./screenshots/sorting-pagination.png)
+## 🔍 Filtering
+![Search Filter](.Porduct_Filtering.png)
 
 ## 📄 Product Details Page
-![Product Details](./screenshots/product-details.png)
+![Product Details](./Men_Detail.png)
+![Product Details](./Women_Detail.png)
+![Product Details](./Kids_Detail.png)
 
 ## 🛒 Cart Page
-![Cart](./screenshots/cart.png)
+![Cart](./Cart.png)
 
 ## 💳 Checkout Page
-![Checkout](./screenshots/checkout.png)
+![Checkout](./Checkout.png)
 
 ## 📦 Order Tracking
-![Order Tracking](./screenshots/order-tracking.png)
+![Order Tracking](./Order_Tracking.png)
 
 ## 🔐 Authentication (Login / Register)
 ![Auth](./SignUp.png)
-![Auth](./Otp_Verification.png)
+![Auth](./Otp_Verfication.png)
 ![Auth](./Login.png)
 ![Auth](./Forget_Password.png)
 ![Auth](./Reset_Password.png)
