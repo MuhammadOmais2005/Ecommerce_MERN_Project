@@ -57,8 +57,9 @@ A full-stack **clothing eCommerce web application** built with MERN stack featur
 ## 🚀 Features
 
 - 🔐 Authentication (JWT + Email Verification)
-- 🛍️ Product listing with search, filter & pagination
-- 🛒 Cart & checkout system
+- 🔃 Server-side sorting, filtering & pagination for optimized performance
+- ❤️ Wishlist functionality (save and manage favorite products)
+- 🛒 Cart & secure checkout system
 - 📦 Order tracking system
 - ⚡ Real-time notifications (Socket.IO)
 - 🧑‍💼 Admin dashboard with analytics
