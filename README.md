@@ -144,11 +144,11 @@ npm run dev
 ![Order Tracking](./screenshots/order-tracking.png)
 
 ## 🔐 Authentication (Login / Register)
-![Auth](./screenshots/SignUp.png)
-![Auth](./screenshots/Otp_Verification.png)
-![Auth](./screenshots/Login.png)
-![Auth](./screenshots/Forget_Password.png)
-![Auth](./screenshots/Reset_Password.png)
+![Auth](./SignUp.png)
+![Auth](./Otp_Verification.png)
+![Auth](./Login.png)
+![Auth](./Forget_Password.png)
+![Auth](./Reset_Password.png)
 ## 🧑‍💼 Admin Dashboard
 ![Admin Dashboard](./screenshots/admin-dashboar.png)
 
